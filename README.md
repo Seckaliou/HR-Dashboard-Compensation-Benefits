@@ -1,7 +1,7 @@
 
 # Dashboard RH – Compensation & Benefits
 
-Ce projet analyse des données RH (données fictives) autour de la satisfaction, des conditions de travail et de l’engagement des employés.
+Ce projet analyse des données RH (données fictives d'entreprise) autour de la satisfaction, des conditions de travail et de l’engagement des employés.
 
 ## Objectifs
 - Visualiser les indicateurs clés RH
